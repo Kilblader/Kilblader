@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Rust<br>🎯 Goals: Live my life peacefully<br>🎲 Fun fact: I build some awesome PC's [Builds.gg](https://builds.gg/users/kilblader-10395)</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Rust<br>🎯 Goals: Live my life peacefully<br>🎲 Fun fact: I build some awesome PC's </p>[Builds.gg](https://builds.gg/users/kilblader-10395)
 
 ###
 
